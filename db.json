@@ -376,25 +376,25 @@
   ],
   "users": [
     {
-      "email": "adm@gmail.com",
-      "password": "$2a$10$I6L/RBxqotegAltbSjUOy.2EiYpo0pTFTKGCWgcIo7XRPevv8AmOO",
-      "name": "adm",
-      "role": "Administração",
-      "id": 1
-    },
-    {
-      "email": "cozinha@gmail.com",
-      "password": "$2a$10$C43ZNqnrF3Zm8jV6s.Z6R.9A8yqa5ydk8mD9yRo45NjW8iS/pJAT6",
-      "name": "cozinha",
-      "role": "Cozinha",
-      "id": 2
-    },
-    {
       "email": "atendente@gmail.com",
       "password": "$2a$10$UdEa6UV35L9C6g9B4yv4G.NRGy/2TZDdpgOz5Ju9K9Sxe/eLndvo.",
       "name": "atendente",
       "role": "atendente",
       "id": 3
+    },
+    {
+      "email": "adm@gmail.com",
+      "password": "$2a$10$JKN6oIIAzDpmXHJD83HTzOP5ph3R5vl.YIJnb0yG7kn./f/1pEh6y",
+      "name": "adm",
+      "role": "administração",
+      "id": 4
+    },
+    {
+      "email": "cozinha@gmail.com",
+      "password": "$2a$10$3TDR6o5Pl7sFCs8ca0Q4QO/.Y81BjKUu21TKjcVado/Kh7NFnwhLm",
+      "name": "cozinha",
+      "role": "cozinha",
+      "id": 5
     }
   ]
 }
