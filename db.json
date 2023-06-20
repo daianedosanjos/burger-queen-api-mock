@@ -376,53 +376,25 @@
   ],
   "users": [
     {
-      "email": "daiane@gmail.com",
-      "password": "$2a$10$Qsrii2I1lXPGIz4/lZsKnuSAQV3a11vd7TdAWnE.vufC3K4RDTUEG",
-      "name": " Daiane dos Anjos",
+      "email": "adm@gmail.com",
+      "password": "$2a$10$I6L/RBxqotegAltbSjUOy.2EiYpo0pTFTKGCWgcIo7XRPevv8AmOO",
+      "name": "adm",
+      "role": "Administração",
+      "id": 1
+    },
+    {
+      "email": "cozinha@gmail.com",
+      "password": "$2a$10$C43ZNqnrF3Zm8jV6s.Z6R.9A8yqa5ydk8mD9yRo45NjW8iS/pJAT6",
+      "name": "cozinha",
+      "role": "Cozinha",
+      "id": 2
+    },
+    {
+      "email": "atendente@gmail.com",
+      "password": "$2a$10$UdEa6UV35L9C6g9B4yv4G.NRGy/2TZDdpgOz5Ju9K9Sxe/eLndvo.",
+      "name": "atendente",
       "role": "atendente",
-      "id": 11
-    },
-    {
-      "email": "geice@gmail.com",
-      "password": "$2a$10$qSXT6R1Pfiuqzc9HgYZ8NOlIALcA5tFA58DjTMgeJXS.r8ZlnhEVm",
-      "name": "Geice ",
-      "role": "Atendente",
-      "id": 12
-    },
-    {
-      "email": "teste@gmail.com",
-      "password": "$2a$10$3MqC34kfFx0BR3zlbaObROOeCQalY9dhbPosOEn/Buxuvvk/nY1CO",
-      "name": "tesste",
-      "role": "Atendente",
-      "id": 13
-    },
-    {
-      "email": "testee@gmail.com",
-      "password": "$2a$10$YyjdQG3mvu.blafAF0mICuV0e/8RR2ntPh9Fs37iMmPlJLBQWNnP2",
-      "name": "testee",
-      "role": "Atendente",
-      "id": 14
-    },
-    {
-      "email": "testee111@gmail.com",
-      "password": "$2a$10$ZNlgotVVMm/fBgozgtUVG.W/JI7BrNy3LNHnknx3p/TSZrfetRWQe",
-      "name": "testee",
-      "role": "Atendente",
-      "id": 15
-    },
-    {
-      "email": "teste@gmail.commmm",
-      "password": "$2a$10$oiEPmyXHVnLGh9ueSs0Aruj0SogJW9h4CXqo7TYLEdlu4dxV7PcWG",
-      "name": "teste",
-      "role": "Cozinha",
-      "id": 16
-    },
-    {
-      "email": "testenovo@gmail.com",
-      "password": "$2a$10$IYDXf1rtccKrXclsHtLjY.2/vYLsmK/TJpRHjf/S.O7G8OxErAz72",
-      "name": "teste",
-      "role": "Cozinha",
-      "id": 17
+      "id": 3
     }
   ]
 }
