@@ -1,10 +1,12 @@
 {
   "orders": [
     {
-      "name": " Daiane dos Anjos",
-      "table": "1",
-      "total": 37,
+      "name": " TESTE 1",
+      "table": " ",
+      "total": 15,
       "status": "entregue",
+      "realizado": "16/06/2023, 13:50:35",
+      "data": "2023-06-16T16:50:35.941Z",
       "pedidos": [
         {
           "name": "Tapioca Sertaneja",
@@ -14,60 +16,57 @@
           "category": "lanches",
           "amount": 1,
           "id": 34
-        },
-        {
-          "name": "Bolo",
-          "description": "Fatia de bolo simples(consultar sabores)",
-          "price": 7,
-          "type": "café da manhã",
-          "category": "lanches",
-          "amount": 1,
-          "id": 37
-        },
-        {
-          "name": "Suco da fruta",
-          "description": "Suco da fruta, 300ml(consultar sabores) ",
-          "price": 10,
-          "type": "café da manhã",
-          "category": "bebidas",
-          "amount": 1,
-          "id": 45
-        },
-        {
-          "name": "Pão na chapa",
-          "description": "Pão com manteiga ",
-          "price": 5,
-          "type": "café da manhã",
-          "category": "lanches",
-          "amount": 1,
-          "id": 40
         }
       ],
-      "id": 1
+      "id": 2,
+      "datapronto": "2023-06-16T16:53:24.913Z"
     },
     {
-      "name": " Amanda Vieira",
-      "table": "2",
-      "total": 28,
+      "name": " TESTE PRONTO",
+      "table": " ",
+      "total": 15,
       "status": "entregue",
+      "realizado": "16/06/2023, 13:54:45",
+      "data": "2023-06-16T16:54:45.831Z",
       "pedidos": [
         {
-          "name": "X-Eggbacon",
-          "description": "Pão de hambúrguer, carne 120g, ovo, milho, batata palha, bacon, queijo, salada e maionese da casa",
-          "price": 14,
+          "name": "Tapioca Sertaneja",
+          "description": "Carne de sol, queijo de coalho gratinado, cebola e manteiga da terra",
+          "price": 15,
+          "type": "café da manhã",
+          "category": "lanches",
+          "amount": 1,
+          "id": 34
+        }
+      ],
+      "id": 3,
+      "datapronto": "2023-06-16T16:58:11.231Z"
+    },
+    {
+      "name": " Daiane dos Anjos",
+      "table": "1",
+      "total": 43,
+      "status": "entregue",
+      "realizado": "16/06/2023, 15:24:21",
+      "data": "2023-06-16T18:24:21.614Z",
+      "pedidos": [
+        {
+          "name": "X-Bacon",
+          "description": "Pão de hambúrguer, carne 120g, bacon, queijo, salada e maionese da casa",
+          "price": 13,
           "type": "menu principal",
           "category": "hambúrgueres",
           "amount": 1,
-          "id": 29
+          "id": 32
         },
         {
-          "name": "Refrigerante litro",
-          "description": "Refrigerante 1 litro",
-          "price": 9,
+          "name": "Batata Frita",
+          "description": "Batata frita 300g",
+          "price": 15,
           "type": "menu principal",
-          "category": "bebidas",
+          "category": "acompanhamentos",
           "amount": 1,
-          "id": 43
+          "id": 33
         },
         {
           "name": "Refrigerante lata",
@@ -77,25 +76,28 @@
           "category": "bebidas",
           "amount": 1,
           "id": 42
+        },
+        {
+          "name": "Suco de frutas",
+          "description": "Suco natural de frutas, 300ml",
+          "price": 10,
+          "type": "menu principal",
+          "category": "bebidas",
+          "amount": 1,
+          "id": 38
         }
       ],
-      "id": 2
+      "id": 5,
+      "datapronto": "2023-06-16T18:30:16.282Z"
     },
     {
-      "name": " Carla Almeida",
-      "table": "2",
+      "name": " ",
+      "table": " ",
       "total": 36,
       "status": "entregue",
+      "realizado": "16/06/2023, 15:31:31",
+      "data": "2023-06-16T18:31:31.862Z",
       "pedidos": [
-        {
-          "name": "X-tudo",
-          "description": "Pão de hambúrguer, carne 120g, queijo, bacon, milho, batata palha e maionese da casa",
-          "price": 16,
-          "type": "menu principal",
-          "category": "hambúrgueres",
-          "amount": 1,
-          "id": 30
-        },
         {
           "name": "X-tudão",
           "description": "Pão de hambúrguer, 2 carnes 120g de picanha, 2 queijos, 02 presuntos, bacon, ovo, milho, batata palha, salada e maionese da casa",
@@ -104,34 +106,7 @@
           "category": "hambúrgueres",
           "amount": 1,
           "id": 31
-        }
-      ],
-      "id": 3
-    },
-    {
-      "name": " Maria",
-      "table": "2",
-      "total": 14,
-      "status": "aberto",
-      "pedidos": [
-        {
-          "name": "X-Eggbacon",
-          "description": "Pão de hambúrguer, carne 120g, ovo, milho, batata palha, bacon, queijo, salada e maionese da casa",
-          "price": 14,
-          "type": "menu principal",
-          "category": "hambúrgueres",
-          "amount": 1,
-          "id": 29
-        }
-      ],
-      "id": 13
-    },
-    {
-      "name": " Teste",
-      "table": " ",
-      "total": 16,
-      "status": "aberto",
-      "pedidos": [
+        },
         {
           "name": "X-tudo",
           "description": "Pão de hambúrguer, carne 120g, queijo, bacon, milho, batata palha e maionese da casa",
@@ -142,18 +117,90 @@
           "id": 30
         }
       ],
-      "id": 14
+      "id": 6,
+      "datapronto": "2023-06-16T18:36:00.010Z"
+    },
+    {
+      "name": " Testem1",
+      "table": " ",
+      "total": 14,
+      "status": "entregue",
+      "realizado": "19/06/2023, 14:27:08",
+      "data": "2023-06-19T17:27:08.502Z",
+      "pedidos": [
+        {
+          "name": "Cuscuz com ovo",
+          "description": "Cuscuz com ovo frito",
+          "price": 14,
+          "type": "café da manhã",
+          "category": "lanches",
+          "amount": 1,
+          "id": 36
+        }
+      ],
+      "id": 8,
+      "datapronto": "2023-06-19T17:30:29.554Z"
+    },
+    {
+      "name": " teste",
+      "table": " ",
+      "total": 7,
+      "status": "pronto",
+      "realizado": "19/06/2023, 19:23:18",
+      "data": "2023-06-19T22:23:18.520Z",
+      "pedidos": [
+        {
+          "name": "Bolo",
+          "description": "Fatia de bolo simples(consultar sabores)",
+          "price": 7,
+          "type": "café da manhã",
+          "category": "lanches",
+          "amount": 1,
+          "id": 37
+        }
+      ],
+      "id": 9,
+      "datapronto": "2023-06-19T22:23:45.481Z"
+    },
+    {
+      "name": " ",
+      "table": " ",
+      "total": 14,
+      "status": "pronto",
+      "realizado": "19/06/2023, 21:13:59",
+      "data": "2023-06-20T00:13:59.327Z",
+      "pedidos": [
+        {
+          "name": "Cuscuz com ovo",
+          "description": "Cuscuz com ovo frito",
+          "price": 14,
+          "type": "café da manhã",
+          "category": "lanches",
+          "amount": 1,
+          "id": 36
+        }
+      ],
+      "id": 10,
+      "datapronto": "2023-06-20T00:14:09.950Z"
     }
   ],
   "products": [
     {
-      "name": "Hambúrguer Simples",
-      "description": "Pão de hambúrguer, carne 120g, queijo, salada e maionese da casa",
+      "name": "Hamburger simples",
+      "description": "pão, hambúrguer, carne 120g, queijo, salada e maionese da casa",
       "price": 10,
-      "type": "menu principal",
+      "type": "Café da manhã",
       "category": "hambúrgueres",
       "amount": 1,
-      "id": 27
+      "id": 27,
+      "updateProducts": {
+        "name": "Hambúrguer Simples",
+        "description": "Pão de hambúrguer, carne 120g, queijo, salada e maionese da casa",
+        "price": 10,
+        "type": "menu principal",
+        "category": "hambúrgueres",
+        "amount": 1
+      }
     },
     {
       "name": "X-Eggbacon",
@@ -325,16 +372,6 @@
       "category": "lanches",
       "amount": 1,
       "id": 48
-    },
-    {
-      "name": " teste",
-      "img": "teste",
-      "description": "teste",
-      "price": "5",
-      "type": "café da manhã",
-      "category": "lanches",
-      "amount": "1",
-      "id": 54
     }
   ],
   "users": [
@@ -347,17 +384,45 @@
     },
     {
       "email": "geice@gmail.com",
-      "password": "$2a$10$AOgwMSHDJlfckHNYe4B4/O4WItZzocsogjkEHwbJKZnpBlLKUo0kG",
-      "name": " Geice Souza",
-      "role": "atendente",
+      "password": "$2a$10$qSXT6R1Pfiuqzc9HgYZ8NOlIALcA5tFA58DjTMgeJXS.r8ZlnhEVm",
+      "name": "Geice ",
+      "role": "Atendente",
       "id": 12
     },
     {
-      "email": "teste1@gmail.com",
-      "password": "$2a$10$KdAcyVGgTAnYqCaRyDvmsux3pbqsc1sJXwfVFdZsjihudYM0gWvTa",
-      "name": "Teste",
-      "role": "atendente",
+      "email": "teste@gmail.com",
+      "password": "$2a$10$3MqC34kfFx0BR3zlbaObROOeCQalY9dhbPosOEn/Buxuvvk/nY1CO",
+      "name": "tesste",
+      "role": "Atendente",
       "id": 13
+    },
+    {
+      "email": "testee@gmail.com",
+      "password": "$2a$10$YyjdQG3mvu.blafAF0mICuV0e/8RR2ntPh9Fs37iMmPlJLBQWNnP2",
+      "name": "testee",
+      "role": "Atendente",
+      "id": 14
+    },
+    {
+      "email": "testee111@gmail.com",
+      "password": "$2a$10$ZNlgotVVMm/fBgozgtUVG.W/JI7BrNy3LNHnknx3p/TSZrfetRWQe",
+      "name": "testee",
+      "role": "Atendente",
+      "id": 15
+    },
+    {
+      "email": "teste@gmail.commmm",
+      "password": "$2a$10$oiEPmyXHVnLGh9ueSs0Aruj0SogJW9h4CXqo7TYLEdlu4dxV7PcWG",
+      "name": "teste",
+      "role": "Cozinha",
+      "id": 16
+    },
+    {
+      "email": "testenovo@gmail.com",
+      "password": "$2a$10$IYDXf1rtccKrXclsHtLjY.2/vYLsmK/TJpRHjf/S.O7G8OxErAz72",
+      "name": "teste",
+      "role": "Cozinha",
+      "id": 17
     }
   ]
 }
