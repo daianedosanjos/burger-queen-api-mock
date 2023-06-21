@@ -1,102 +1,90 @@
 {
   "orders": [
     {
-      "name": " TESTE 1",
-      "table": " ",
-      "total": 15,
-      "status": "entregue",
-      "realizado": "16/06/2023, 13:50:35",
-      "data": "2023-06-16T16:50:35.941Z",
-      "pedidos": [
-        {
-          "name": "Tapioca Sertaneja",
-          "description": "Carne de sol, queijo de coalho gratinado, cebola e manteiga da terra",
-          "price": 15,
-          "type": "café da manhã",
-          "category": "lanches",
-          "amount": 1,
-          "id": 34
-        }
-      ],
-      "id": 2,
-      "datapronto": "2023-06-16T16:53:24.913Z"
-    },
-    {
-      "name": " TESTE PRONTO",
-      "table": " ",
-      "total": 15,
-      "status": "entregue",
-      "realizado": "16/06/2023, 13:54:45",
-      "data": "2023-06-16T16:54:45.831Z",
-      "pedidos": [
-        {
-          "name": "Tapioca Sertaneja",
-          "description": "Carne de sol, queijo de coalho gratinado, cebola e manteiga da terra",
-          "price": 15,
-          "type": "café da manhã",
-          "category": "lanches",
-          "amount": 1,
-          "id": 34
-        }
-      ],
-      "id": 3,
-      "datapronto": "2023-06-16T16:58:11.231Z"
-    },
-    {
-      "name": " Daiane dos Anjos",
+      "name": "Amanda",
       "table": "1",
-      "total": 43,
+      "total": 28,
       "status": "entregue",
-      "realizado": "16/06/2023, 15:24:21",
-      "data": "2023-06-16T18:24:21.614Z",
+      "realizado": "21/06/2023, 05:21:54",
+      "data": "2023-06-21T08:21:54.236Z",
       "pedidos": [
         {
-          "name": "X-Bacon",
-          "description": "Pão de hambúrguer, carne 120g, bacon, queijo, salada e maionese da casa",
-          "price": 13,
+          "name": "Cuscuz com ovo",
+          "description": "Cuscuz com ovo frito",
+          "price": 14,
+          "type": "café da manhã",
+          "category": "lanches",
+          "amount": 1,
+          "id": 36
+        },
+        {
+          "name": "Bolo",
+          "description": "Fatia de bolo simples(consultar sabores)",
+          "price": 7,
+          "type": "café da manhã",
+          "category": "lanches",
+          "amount": 1,
+          "id": 37
+        },
+        {
+          "name": "Café com Leite",
+          "description": "Café expresso com leite, 100ml",
+          "price": 7,
+          "type": "café da manhã",
+          "category": "bebidas",
+          "amount": 1,
+          "id": 39
+        }
+      ],
+      "id": 1,
+      "datapronto": "2023-06-21T08:45:06.819Z"
+    },
+    {
+      "name": "Ana Maria",
+      "table": "4",
+      "total": 34,
+      "status": "entregue",
+      "realizado": "21/06/2023, 05:22:26",
+      "data": "2023-06-21T08:22:26.780Z",
+      "pedidos": [
+        {
+          "name": "X-tudão",
+          "description": "Pão de hambúrguer, 2 carnes 120g de picanha, 2 queijos, 02 presuntos, bacon, ovo, milho, batata palha, salada e maionese da casa",
+          "price": 20,
           "type": "menu principal",
           "category": "hambúrgueres",
           "amount": 1,
-          "id": 32
+          "id": 31
         },
         {
-          "name": "Batata Frita",
-          "description": "Batata frita 300g",
-          "price": 15,
+          "name": "Refrigerante litro",
+          "description": "Refrigerante 1 litro",
+          "price": 9,
           "type": "menu principal",
-          "category": "acompanhamentos",
+          "category": "bebidas",
           "amount": 1,
-          "id": 33
+          "id": 43
         },
         {
-          "name": "Refrigerante lata",
-          "description": "Refrigerante lata",
+          "name": "Água mineral",
+          "description": "Água mineral 500ml ",
           "price": 5,
           "type": "menu principal",
           "category": "bebidas",
           "amount": 1,
-          "id": 42
-        },
-        {
-          "name": "Suco de frutas",
-          "description": "Suco natural de frutas, 300ml",
-          "price": 10,
-          "type": "menu principal",
-          "category": "bebidas",
-          "amount": 1,
-          "id": 38
+          "id": 44
         }
       ],
-      "id": 5,
-      "datapronto": "2023-06-16T18:30:16.282Z"
+      "id": 2,
+      "datapronto": "2023-06-21T08:38:48.688Z"
     },
     {
-      "name": " ",
-      "table": " ",
-      "total": 36,
+      "name": "Simone Mendes",
+      "table": "4",
+      "total": 46,
       "status": "entregue",
-      "realizado": "16/06/2023, 15:31:31",
-      "data": "2023-06-16T18:31:31.862Z",
+      "realizado": "21/06/2023, 05:22:54",
+      "data": "2023-06-21T08:22:54.967Z",
       "pedidos": [
         {
           "name": "X-tudão",
@@ -115,73 +103,40 @@
           "category": "hambúrgueres",
           "amount": 1,
           "id": 30
+        },
+        {
+          "name": "Suco de frutas",
+          "description": "Suco natural de frutas, 300ml",
+          "price": 10,
+          "type": "menu principal",
+          "category": "bebidas",
+          "amount": 1,
+          "id": 38
         }
       ],
-      "id": 6,
-      "datapronto": "2023-06-16T18:36:00.010Z"
+      "id": 3,
+      "datapronto": "2023-06-21T08:28:06.406Z"
     },
     {
-      "name": " Testem1",
-      "table": " ",
-      "total": 14,
+      "name": "Anderson",
+      "table": "2",
+      "total": 5,
       "status": "entregue",
-      "realizado": "19/06/2023, 14:27:08",
-      "data": "2023-06-19T17:27:08.502Z",
+      "realizado": "21/06/2023, 05:28:41",
+      "data": "2023-06-21T08:28:41.232Z",
       "pedidos": [
         {
-          "name": "Cuscuz com ovo",
-          "description": "Cuscuz com ovo frito",
-          "price": 14,
-          "type": "café da manhã",
-          "category": "lanches",
+          "name": "Água mineral",
+          "description": "Água mineral 500ml ",
+          "price": 5,
+          "type": "menu principal",
+          "category": "bebidas",
           "amount": 1,
-          "id": 36
+          "id": 44
         }
       ],
-      "id": 8,
-      "datapronto": "2023-06-19T17:30:29.554Z"
-    },
-    {
-      "name": " teste",
-      "table": " ",
-      "total": 7,
-      "status": "pronto",
-      "realizado": "19/06/2023, 19:23:18",
-      "data": "2023-06-19T22:23:18.520Z",
-      "pedidos": [
-        {
-          "name": "Bolo",
-          "description": "Fatia de bolo simples(consultar sabores)",
-          "price": 7,
-          "type": "café da manhã",
-          "category": "lanches",
-          "amount": 1,
-          "id": 37
-        }
-      ],
-      "id": 9,
-      "datapronto": "2023-06-19T22:23:45.481Z"
-    },
-    {
-      "name": " ",
-      "table": " ",
-      "total": 14,
-      "status": "pronto",
-      "realizado": "19/06/2023, 21:13:59",
-      "data": "2023-06-20T00:13:59.327Z",
-      "pedidos": [
-        {
-          "name": "Cuscuz com ovo",
-          "description": "Cuscuz com ovo frito",
-          "price": 14,
-          "type": "café da manhã",
-          "category": "lanches",
-          "amount": 1,
-          "id": 36
-        }
-      ],
-      "id": 10,
-      "datapronto": "2023-06-20T00:14:09.950Z"
+      "id": 4,
+      "datapronto": "2023-06-21T08:44:48.227Z"
     }
   ],
   "products": [
@@ -230,7 +185,7 @@
       "id": 31
     },
     {
-      "name": "X-Bacon",
+      "name": "X-Bacon teste",
       "description": "Pão de hambúrguer, carne 120g, bacon, queijo, salada e maionese da casa",
       "price": 13,
       "type": "menu principal",
@@ -395,6 +350,48 @@
       "name": "cozinha",
       "role": "cozinha",
       "id": 5
+    },
+    {
+      "email": "daiane@gmail.com",
+      "password": "$2a$10$tUgo4FOENRc/DE1HRIKJnudfjBA5MawChKFmbekWyT6EXyttDyC1a",
+      "name": "Daiane Anjos",
+      "role": "Atendente",
+      "id": 6
+    },
+    {
+      "email": "maria@gmail.com",
+      "password": "$2a$10$hLSOawNXZ1NMrCOp0/g6ROIiPOB0iXzb4Gxv112mQ2TT/5667VMJ6",
+      "name": "Maria Rita",
+      "role": "cozinha",
+      "id": 7
+    },
+    {
+      "email": "geice@gmail.com",
+      "password": "$2a$10$uNguDDLjgnOCtBaPCGWH4.VrHETCvKN.9O1X7xfxlNPWkqmoXKWs6",
+      "name": "Geice",
+      "role": "Administração",
+      "id": 8
+    },
+    {
+      "email": "juliana@gmail.com",
+      "password": "$2a$10$IBo6KkL.ExsXVJN9Xk7FZuDwzRtcbF6gfj/jxSPSUVEuau5Yo3vhG",
+      "name": "Juliana Ramos",
+      "role": "Atendente",
+      "id": 9
+    },
+    {
+      "email": "anderson@gmail.com",
+      "password": "$2a$10$c6pRqpmoBT/eQwby86pWzeT5r9OWh3v0HxeMcMZpR9Vac4uB4ojGa",
+      "name": "Anderson",
+      "role": "cozinha",
+      "id": 10
+    },
+    {
+      "email": "gabriel@gmail.com",
+      "password": "$2a$10$etWQhOtBGNQ1YhxpO5SLxODyJSO8NNw14VgzEB/IfpKiRaZfdfk7i",
+      "name": "Gabriel",
+      "role": "cozinha",
+      "id": 11
     }
   ]
 }
