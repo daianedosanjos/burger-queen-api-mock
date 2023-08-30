@@ -1,45 +1,6 @@
 {
   "orders": [
     {
-      "name": "Amanda",
-      "table": "1",
-      "total": 28,
-      "status": "entregue",
-      "realizado": "21/06/2023, 05:21:54",
-      "data": "2023-06-21T08:21:54.236Z",
-      "pedidos": [
-        {
-          "name": "Cuscuz com ovo",
-          "description": "Cuscuz com ovo frito",
-          "price": 14,
-          "type": "café da manhã",
-          "category": "lanches",
-          "amount": 1,
-          "id": 36
-        },
-        {
-          "name": "Bolo",
-          "description": "Fatia de bolo simples(consultar sabores)",
-          "price": 7,
-          "type": "café da manhã",
-          "category": "lanches",
-          "amount": 1,
-          "id": 37
-        },
-        {
-          "name": "Café com Leite",
-          "description": "Café expresso com leite, 100ml",
-          "price": 7,
-          "type": "café da manhã",
-          "category": "bebidas",
-          "amount": 1,
-          "id": 39
-        }
-      ],
-      "id": 1,
-      "datapronto": "2023-06-21T08:45:06.819Z"
-    },
-    {
       "name": "Ana Maria",
       "table": "4",
       "total": 34,
@@ -79,22 +40,43 @@
       "datapronto": "2023-06-21T08:38:48.688Z"
     },
     {
-      "name": "Simone Mendes",
+      "name": "Luiz Felipe",
       "table": "4",
-      "total": 46,
+      "total": 12,
       "status": "entregue",
-      "realizado": "21/06/2023, 05:22:54",
-      "data": "2023-06-21T08:22:54.967Z",
+      "realizado": "21/06/2023, 10:27:30",
+      "data": "2023-06-21T13:27:30.813Z",
       "pedidos": [
         {
-          "name": "X-tudão",
-          "description": "Pão de hambúrguer, 2 carnes 120g de picanha, 2 queijos, 02 presuntos, bacon, ovo, milho, batata palha, salada e maionese da casa",
-          "price": 20,
-          "type": "menu principal",
-          "category": "hambúrgueres",
+          "name": "Bolo",
+          "description": "Fatia de bolo simples(consultar sabores)",
+          "price": 7,
+          "type": "café da manhã",
+          "category": "lanches",
           "amount": 1,
-          "id": 31
+          "id": 37
         },
+        {
+          "name": "Pão na chapa",
+          "description": "Pão com manteiga ",
+          "price": 5,
+          "type": "café da manhã",
+          "category": "lanches",
+          "amount": 1,
+          "id": 40
+        }
+      ],
+      "id": 5,
+      "datapronto": "2023-06-21T13:36:01.509Z"
+    },
+    {
+      "name": "Demo",
+      "table": "2",
+      "total": 30,
+      "status": "entregue",
+      "realizado": "05/07/2023, 16:20:53",
+      "data": "2023-07-05T19:20:53.876Z",
+      "pedidos": [
         {
           "name": "X-tudo",
           "description": "Pão de hambúrguer, carne 120g, queijo, bacon, milho, batata palha e maionese da casa",
@@ -105,26 +87,209 @@
           "id": 30
         },
         {
-          "name": "Suco de frutas",
-          "description": "Suco natural de frutas, 300ml",
+          "name": "X-Eggbacon",
+          "description": "Pão de hambúrguer, carne 120g, ovo, milho, batata palha, bacon, queijo, salada e maionese da casa",
+          "price": 14,
+          "type": "menu principal",
+          "category": "hambúrgueres",
+          "amount": 1,
+          "id": 29
+        }
+      ],
+      "id": 10,
+      "datapronto": "2023-07-05T19:33:09.197Z"
+    },
+    {
+      "name": "Daiane dos Anjos ",
+      "table": "1",
+      "total": 146,
+      "status": "entregue",
+      "realizado": "07/07/2023, 13:41:09",
+      "data": "2023-07-07T16:41:09.311Z",
+      "pedidos": [
+        {
+          "name": "X-tudão",
+          "description": "Pão de hambúrguer, 2 carnes 120g de picanha, 2 queijos, 02 presuntos, bacon, ovo, milho, batata palha, salada e maionese da casa",
+          "price": 20,
+          "type": "menu principal",
+          "category": "hambúrgueres",
+          "amount": 3,
+          "id": 31
+        },
+        {
+          "name": "X-tudo",
+          "description": "Pão de hambúrguer, carne 120g, queijo, bacon, milho, batata palha e maionese da casa",
+          "price": 16,
+          "type": "menu principal",
+          "category": "hambúrgueres",
+          "amount": 3,
+          "id": 30
+        },
+        {
+          "name": "X-Eggbacon",
+          "description": "Pão de hambúrguer, carne 120g, ovo, milho, batata palha, bacon, queijo, salada e maionese da casa",
+          "price": 14,
+          "type": "menu principal",
+          "category": "hambúrgueres",
+          "amount": 2,
+          "id": 29
+        },
+        {
+          "name": "Cuscuz simples na manteiga",
+          "description": "Cuscuz (milharina hidratada com manteiga) Sem Recheio.",
           "price": 10,
+          "type": "café da manhã",
+          "category": "lanches",
+          "amount": 1,
+          "id": 35
+        }
+      ],
+      "id": 15,
+      "datapronto": "2023-07-07T16:44:59.009Z"
+    },
+    {
+      "name": "Daiane",
+      "table": "1",
+      "total": 84,
+      "status": "entregue",
+      "realizado": "17/07/2023, 16:03:25",
+      "data": "2023-07-17T19:03:25.052Z",
+      "pedidos": [
+        {
+          "name": "X-tudão",
+          "description": "Pão de hambúrguer, 2 carnes 120g de picanha, 2 queijos, 02 presuntos, bacon, ovo, milho, batata palha, salada e maionese da casa",
+          "price": 20,
+          "type": "menu principal",
+          "category": "hambúrgueres",
+          "amount": 2,
+          "id": 31
+        },
+        {
+          "name": "Batata Frita",
+          "description": "Batata frita 300g",
+          "price": 15,
+          "type": "menu principal",
+          "category": "acompanhamentos",
+          "amount": 2,
+          "id": 33
+        },
+        {
+          "name": "Cuscuz com ovo",
+          "description": "Cuscuz com ovo frito",
+          "price": 14,
+          "type": "café da manhã",
+          "category": "lanches",
+          "amount": 1,
+          "id": 36
+        }
+      ],
+      "id": 20,
+      "datapronto": "2023-07-17T19:03:37.820Z"
+    },
+    {
+      "name": "Daiane",
+      "table": "1",
+      "total": 75,
+      "status": "entregue",
+      "realizado": "17/07/2023, 16:54:53",
+      "data": "2023-07-17T19:54:53.939Z",
+      "pedidos": [
+        {
+          "name": "X-tudão",
+          "description": "Pão de hambúrguer, 2 carnes 120g de picanha, 2 queijos, 02 presuntos, bacon, ovo, milho, batata palha, salada e maionese da casa",
+          "price": 20,
+          "type": "menu principal",
+          "category": "hambúrgueres",
+          "amount": 3,
+          "id": 31
+        },
+        {
+          "name": "Água mineral",
+          "description": "Água mineral 500ml ",
+          "price": 5,
           "type": "menu principal",
           "category": "bebidas",
           "amount": 1,
-          "id": 38
+          "id": 44
+        },
+        {
+          "name": "Cuscuz simples na manteiga",
+          "description": "Cuscuz (milharina hidratada com manteiga) Sem Recheio.",
+          "price": 10,
+          "type": "café da manhã",
+          "category": "lanches",
+          "amount": 1,
+          "id": 35
         }
       ],
-      "id": 3,
-      "datapronto": "2023-06-21T08:28:06.406Z"
+      "id": 21,
+      "datapronto": "2023-07-17T19:55:45.600Z"
     },
     {
-      "name": "Anderson",
-      "table": "2",
-      "total": 5,
+      "name": "Daiane ",
+      "table": "1",
+      "total": 80,
       "status": "entregue",
-      "realizado": "21/06/2023, 05:28:41",
-      "data": "2023-06-21T08:28:41.232Z",
+      "realizado": "18/07/2023, 23:03:47",
+      "data": "2023-07-19T02:03:48.004Z",
       "pedidos": [
+        {
+          "name": "X-tudão",
+          "description": "Pão de hambúrguer, 2 carnes 120g de picanha, 2 queijos, 02 presuntos, bacon, ovo, milho, batata palha, salada e maionese da casa",
+          "price": 20,
+          "type": "menu principal",
+          "category": "hambúrgueres",
+          "amount": 3,
+          "id": 31
+        },
+        {
+          "name": "Água mineral",
+          "description": "Água mineral 500ml ",
+          "price": 5,
+          "type": "menu principal",
+          "category": "bebidas",
+          "amount": 1,
+          "id": 44
+        },
+        {
+          "name": "Batata Frita",
+          "description": "Batata frita 300g",
+          "price": 15,
+          "type": "menu principal",
+          "category": "acompanhamentos",
+          "amount": 1,
+          "id": 33
+        }
+      ],
+      "id": 22,
+      "datapronto": "2023-07-19T02:06:52.853Z"
+    },
+    {
+      "name": "Daiane",
+      "table": "1",
+      "total": 76,
+      "status": "entregue",
+      "realizado": "18/07/2023, 23:06:08",
+      "data": "2023-07-19T02:06:08.803Z",
+      "pedidos": [
+        {
+          "name": "Batata Frita",
+          "description": "Batata frita 300g",
+          "price": 15,
+          "type": "menu principal",
+          "category": "acompanhamentos",
+          "amount": 3,
+          "id": 33
+        },
+        {
+          "name": "X-Bacon teste",
+          "description": "Pão de hambúrguer, carne 120g, bacon, queijo, salada e maionese da casa",
+          "price": 13,
+          "type": "menu principal",
+          "category": "hambúrgueres",
+          "amount": 2,
+          "id": 32
+        },
         {
           "name": "Água mineral",
           "description": "Água mineral 500ml ",
@@ -135,28 +300,305 @@
           "id": 44
         }
       ],
-      "id": 4,
-      "datapronto": "2023-06-21T08:44:48.227Z"
+      "id": 23,
+      "datapronto": "2023-07-19T02:06:56.161Z"
+    },
+    {
+      "name": "Daiane Anjos",
+      "table": "1",
+      "total": 74,
+      "status": "entregue",
+      "realizado": "18/07/2023, 23:21:36",
+      "data": "2023-07-19T02:21:36.068Z",
+      "pedidos": [
+        {
+          "name": "X-Bacon teste",
+          "description": "Pão de hambúrguer, carne 120g, bacon, queijo, salada e maionese da casa",
+          "price": 13,
+          "type": "menu principal",
+          "category": "hambúrgueres",
+          "amount": 3,
+          "id": 32
+        },
+        {
+          "name": "Batata Frita",
+          "description": "Batata frita 300g",
+          "price": 15,
+          "type": "menu principal",
+          "category": "acompanhamentos",
+          "amount": 2,
+          "id": 33
+        },
+        {
+          "name": "Água mineral",
+          "description": "Água mineral 500ml ",
+          "price": 5,
+          "type": "menu principal",
+          "category": "bebidas",
+          "amount": 1,
+          "id": 44
+        }
+      ],
+      "id": 24,
+      "datapronto": "2023-07-19T02:22:07.537Z"
+    },
+    {
+      "name": "Daiane Anjos",
+      "table": "1",
+      "total": 74,
+      "status": "entregue",
+      "realizado": "18/07/2023, 23:26:09",
+      "data": "2023-07-19T02:26:09.582Z",
+      "pedidos": [
+        {
+          "name": "X-Bacon teste",
+          "description": "Pão de hambúrguer, carne 120g, bacon, queijo, salada e maionese da casa",
+          "price": 13,
+          "type": "menu principal",
+          "category": "hambúrgueres",
+          "amount": 3,
+          "id": 32
+        },
+        {
+          "name": "Batata Frita",
+          "description": "Batata frita 300g",
+          "price": 15,
+          "type": "menu principal",
+          "category": "acompanhamentos",
+          "amount": 2,
+          "id": 33
+        },
+        {
+          "name": "Água mineral",
+          "description": "Água mineral 500ml ",
+          "price": 5,
+          "type": "menu principal",
+          "category": "bebidas",
+          "amount": 1,
+          "id": 44
+        }
+      ],
+      "id": 25,
+      "datapronto": "2023-07-19T02:26:51.602Z"
+    },
+    {
+      "name": "Daiane dos Anjos",
+      "table": "2",
+      "total": 91,
+      "status": "entregue",
+      "realizado": "18/07/2023, 23:55:07",
+      "data": "2023-07-19T02:55:07.323Z",
+      "pedidos": [
+        {
+          "name": "X-Bacon",
+          "description": "Pão de hambúrguer, carne 120g, bacon, queijo, salada e maionese da casa",
+          "price": 13,
+          "type": "menu principal",
+          "category": "hambúrgueres",
+          "amount": 2,
+          "id": 32
+        },
+        {
+          "name": "X-tudão",
+          "description": "Pão de hambúrguer, 2 carnes 120g de picanha, 2 queijos, 02 presuntos, bacon, ovo, milho, batata palha, salada e maionese da casa",
+          "price": 20,
+          "type": "menu principal",
+          "category": "hambúrgueres",
+          "amount": 3,
+          "id": 31
+        },
+        {
+          "name": "Água mineral",
+          "description": "Água mineral 500ml ",
+          "price": 5,
+          "type": "menu principal",
+          "category": "bebidas",
+          "amount": 1,
+          "id": 44
+        }
+      ],
+      "id": 26,
+      "datapronto": "2023-07-19T02:55:46.892Z"
+    },
+    {
+      "name": "Daiane dos Anjos",
+      "table": "2",
+      "total": 106,
+      "status": "entregue",
+      "realizado": "19/07/2023, 00:16:48",
+      "data": "2023-07-19T03:16:48.322Z",
+      "pedidos": [
+        {
+          "name": "X-tudão",
+          "description": "Pão de hambúrguer, 2 carnes 120g de picanha, 2 queijos, 02 presuntos, bacon, ovo, milho, batata palha, salada e maionese da casa",
+          "price": 20,
+          "type": "menu principal",
+          "category": "hambúrgueres",
+          "amount": 3,
+          "id": 31
+        },
+        {
+          "name": "Batata Frita",
+          "description": "Batata frita 300g",
+          "price": 15,
+          "type": "menu principal",
+          "category": "acompanhamentos",
+          "amount": 2,
+          "id": 33
+        },
+        {
+          "name": "X-tudo",
+          "description": "Pão de hambúrguer, carne 120g, queijo, bacon, milho, batata palha e maionese da casa",
+          "price": 16,
+          "type": "menu principal",
+          "category": "hambúrgueres",
+          "amount": 1,
+          "id": 30
+        }
+      ],
+      "id": 27,
+      "datapronto": "2023-07-19T03:17:04.286Z"
+    },
+    {
+      "name": "Daiane dos Anjos",
+      "table": "1",
+      "total": 75,
+      "status": "entregue",
+      "realizado": "19/07/2023, 00:19:42",
+      "data": "2023-07-19T03:19:42.137Z",
+      "pedidos": [
+        {
+          "name": "X-Eggbacon",
+          "description": "Pão de hambúrguer, carne 120g, ovo, milho, batata palha, bacon, queijo, salada e maionese da casa",
+          "price": 14,
+          "type": "menu principal",
+          "category": "hambúrgueres",
+          "amount": 2,
+          "id": 29
+        },
+        {
+          "name": "X-tudo",
+          "description": "Pão de hambúrguer, carne 120g, queijo, bacon, milho, batata palha e maionese da casa",
+          "price": 16,
+          "type": "menu principal",
+          "category": "hambúrgueres",
+          "amount": 2,
+          "id": 30
+        },
+        {
+          "name": "Batata Frita",
+          "description": "Batata frita 300g",
+          "price": 15,
+          "type": "menu principal",
+          "category": "acompanhamentos",
+          "amount": 1,
+          "id": 33
+        }
+      ],
+      "id": 28,
+      "datapronto": "2023-07-19T03:19:59.069Z"
+    },
+    {
+      "name": "Daiane dos Anjos",
+      "table": "1",
+      "total": 101,
+      "status": "entregue",
+      "realizado": "19/07/2023, 00:23:26",
+      "data": "2023-07-19T03:23:26.044Z",
+      "pedidos": [
+        {
+          "name": "X-tudão",
+          "description": "Pão de hambúrguer, 2 carnes 120g de picanha, 2 queijos, 02 presuntos, bacon, ovo, milho, batata palha, salada e maionese da casa",
+          "price": 20,
+          "type": "menu principal",
+          "category": "hambúrgueres",
+          "amount": 3,
+          "id": 31
+        },
+        {
+          "name": "X-Bacon",
+          "description": "Pão de hambúrguer, carne 120g, bacon, queijo, salada e maionese da casa",
+          "price": 13,
+          "type": "menu principal",
+          "category": "hambúrgueres",
+          "amount": 2,
+          "id": 32
+        },
+        {
+          "name": "Batata Frita",
+          "description": "Batata frita 300g",
+          "price": 15,
+          "type": "menu principal",
+          "category": "acompanhamentos",
+          "amount": 1,
+          "id": 33
+        }
+      ],
+      "id": 29,
+      "datapronto": "2023-07-19T03:23:45.315Z"
+    },
+    {
+      "name": "Daiane",
+      "table": "2",
+      "total": 46,
+      "status": "entregue",
+      "realizado": "19/07/2023, 00:38:21",
+      "data": "2023-07-19T03:38:21.161Z",
+      "pedidos": [
+        {
+          "name": "X-Bacon",
+          "description": "Pão de hambúrguer, carne 120g, bacon, queijo, salada e maionese da casa",
+          "price": 13,
+          "type": "menu principal",
+          "category": "hambúrgueres",
+          "amount": 2,
+          "id": 32
+        },
+        {
+          "name": "X-tudão",
+          "description": "Pão de hambúrguer, 2 carnes 120g de picanha, 2 queijos, 02 presuntos, bacon, ovo, milho, batata palha, salada e maionese da casa",
+          "price": 20,
+          "type": "menu principal",
+          "category": "hambúrgueres",
+          "amount": 1,
+          "id": 31
+        }
+      ],
+      "id": 30,
+      "datapronto": "2023-07-19T03:38:35.097Z"
+    },
+    {
+      "name": "Daiane dos Anjos",
+      "table": "1",
+      "total": 61,
+      "status": "entregue",
+      "realizado": "19/07/2023, 00:45:15",
+      "data": "2023-07-19T03:45:15.667Z",
+      "pedidos": [
+        {
+          "name": "Batata Frita",
+          "description": "Batata frita 300g",
+          "price": 15,
+          "type": "menu principal",
+          "category": "acompanhamentos",
+          "amount": 3,
+          "id": 33
+        },
+        {
+          "name": "X-tudo",
+          "description": "Pão de hambúrguer, carne 120g, queijo, bacon, milho, batata palha e maionese da casa",
+          "price": 16,
+          "type": "menu principal",
+          "category": "hambúrgueres",
+          "amount": 1,
+          "id": 30
+        }
+      ],
+      "id": 31,
+      "datapronto": "2023-07-19T03:45:30.467Z"
     }
   ],
   "products": [
-    {
-      "name": "Hamburger simples",
-      "description": "pão, hambúrguer, carne 120g, queijo, salada e maionese da casa",
-      "price": 10,
-      "type": "Café da manhã",
-      "category": "hambúrgueres",
-      "amount": 1,
-      "id": 27,
-      "updateProducts": {
-        "name": "Hambúrguer Simples",
-        "description": "Pão de hambúrguer, carne 120g, queijo, salada e maionese da casa",
-        "price": 10,
-        "type": "menu principal",
-        "category": "hambúrgueres",
-        "amount": 1
-      }
-    },
     {
       "name": "X-Eggbacon",
       "description": "Pão de hambúrguer, carne 120g, ovo, milho, batata palha, bacon, queijo, salada e maionese da casa",
@@ -185,7 +627,7 @@
       "id": 31
     },
     {
-      "name": "X-Bacon teste",
+      "name": "X-Bacon",
       "description": "Pão de hambúrguer, carne 120g, bacon, queijo, salada e maionese da casa",
       "price": 13,
       "type": "menu principal",
@@ -248,7 +690,7 @@
       "id": 38
     },
     {
-      "name": "Café com Leite",
+      "name": "Café com Leite ",
       "description": "Café expresso com leite, 100ml",
       "price": 7,
       "type": "café da manhã",
@@ -331,67 +773,25 @@
   ],
   "users": [
     {
-      "email": "atendente@gmail.com",
-      "password": "$2a$10$UdEa6UV35L9C6g9B4yv4G.NRGy/2TZDdpgOz5Ju9K9Sxe/eLndvo.",
-      "name": "atendente",
-      "role": "atendente",
-      "id": 3
-    },
-    {
-      "email": "adm@gmail.com",
-      "password": "$2a$10$JKN6oIIAzDpmXHJD83HTzOP5ph3R5vl.YIJnb0yG7kn./f/1pEh6y",
-      "name": "adm",
-      "role": "administração",
-      "id": 4
-    },
-    {
-      "email": "cozinha@gmail.com",
-      "password": "$2a$10$3TDR6o5Pl7sFCs8ca0Q4QO/.Y81BjKUu21TKjcVado/Kh7NFnwhLm",
-      "name": "cozinha",
-      "role": "cozinha",
-      "id": 5
-    },
-    {
-      "email": "daiane@gmail.com",
-      "password": "$2a$10$tUgo4FOENRc/DE1HRIKJnudfjBA5MawChKFmbekWyT6EXyttDyC1a",
-      "name": "Daiane Anjos",
-      "role": "Atendente",
-      "id": 6
-    },
-    {
-      "email": "maria@gmail.com",
-      "password": "$2a$10$hLSOawNXZ1NMrCOp0/g6ROIiPOB0iXzb4Gxv112mQ2TT/5667VMJ6",
-      "name": "Maria Rita",
-      "role": "cozinha",
-      "id": 7
-    },
-    {
-      "email": "geice@gmail.com",
-      "password": "$2a$10$uNguDDLjgnOCtBaPCGWH4.VrHETCvKN.9O1X7xfxlNPWkqmoXKWs6",
-      "name": "Geice",
+      "email": "adm@lb.com",
+      "password": "$2a$10$fYdghzu4v3.ylK50p92rKu5KvIL/PuLTrgd5vhI5Jn731QigPSKS2",
+      "name": "Administrador",
       "role": "Administração",
       "id": 8
     },
     {
-      "email": "juliana@gmail.com",
-      "password": "$2a$10$IBo6KkL.ExsXVJN9Xk7FZuDwzRtcbF6gfj/jxSPSUVEuau5Yo3vhG",
-      "name": "Juliana Ramos",
-      "role": "Atendente",
+      "email": "cozinha@lb.com",
+      "password": "$2a$10$pw8LOd1WZRx.gARJZIoU6uQx2Af1SKBE91jie2531r65epKO7uEtu",
+      "name": "Cozinha",
+      "role": "Cozinha",
       "id": 9
     },
     {
-      "email": "anderson@gmail.com",
-      "password": "$2a$10$c6pRqpmoBT/eQwby86pWzeT5r9OWh3v0HxeMcMZpR9Vac4uB4ojGa",
-      "name": "Anderson",
-      "role": "cozinha",
+      "email": "atendente@lb.com",
+      "password": "$2a$10$c9oYPuElZKdvPm.NIjV6QO/GT05.P/f4T6KpforT9fBzqX2Er4ikS",
+      "name": "Atendente editando",
+      "role": "Atendente",
       "id": 10
-    },
-    {
-      "email": "gabriel@gmail.com",
-      "password": "$2a$10$etWQhOtBGNQ1YhxpO5SLxODyJSO8NNw14VgzEB/IfpKiRaZfdfk7i",
-      "name": "Gabriel",
-      "role": "cozinha",
-      "id": 11
     }
   ]
 }
